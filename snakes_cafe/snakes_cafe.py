@@ -65,37 +65,37 @@ while True:
         print(f"** {c_cookies} order of {i} has been added to your meal **")
     elif i == "Spring Rolls":
         c_Spring_Rolls += 1
-        print(f"** {c_sr} order of {i} has been added to your meal **")
+        print(f"** {c_Spring_Rolls} order of {i} has been added to your meal **")
     elif i == "Salmon":
         c_Salmon += 1
-        print(f"** {c_sa} order of {i} has been added to your meal **")
+        print(f"** {c_Salmon} order of {i} has been added to your meal **")
     elif i == "Steak":
         c_Steak += 1
-        print(f"** {c_st} order of {i} has been added to your meal **")
+        print(f"** {c_Steak} order of {i} has been added to your meal **")
     elif i == "Meat Tornado":
         c_Meat_Tornado += 1
-        print(f"** {c_mt} order of {i} has been added to your meal **")
+        print(f"** {c_Meat_Tornado} order of {i} has been added to your meal **")
     elif i == "A Literal Garden":
         c_A_Literal_Garden += 1
-        print(f"** {c_lg} order of {i} has been added to your meal **")
+        print(f"** {c_A_Literal_Garden} order of {i} has been added to your meal **")
     elif i == "Ice Cream":
         c_Ice_Cream += 1
-        print(f"** {c_ic} order of {i} has been added to your meal **")
+        print(f"** {c_Ice_Cream} order of {i} has been added to your meal **")
     elif i == "Cake":
         c_Cake += 1
-        print(f"** {c_c} order of {i} has been added to your meal **")
+        print(f"** {c_Cake} order of {i} has been added to your meal **")
     elif i == "Pie":
         c_Pie += 1
-        print(f"** {c_p} order of {i} has been added to your meal **")
+        print(f"** {c_Pie} order of {i} has been added to your meal **")
     elif i == "Coffee":
         c_Coffee += 1
-        print(f"** {c_co} order of {i} has been added to your meal **")
+        print(f"** {c_Coffee} order of {i} has been added to your meal **")
     elif i == "Tea":
         c_Tea += 1
-        print(f"** {c_t} order of {i} has been added to your meal **")
+        print(f"** {c_Tea} order of {i} has been added to your meal **")
     elif i == "Unicorn Tears":
         c_Unicorn_Tears += 1
-        print(f"** {c_ut} order of {i} has been added to your meal **")
+        print(f"** {c_Unicorn_Tears} order of {i} has been added to your meal **")
     elif i == "quit":
         break
     else :
